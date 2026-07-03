@@ -16,11 +16,11 @@ Developer • Open Source • Building Modern Projects
 |-------|-------|
 | Name | Lana |
 | Username | bluenotthecolor |
-| Location | Pakistan |
+| Location | Canada |
 | Primary Language | Python |
 | Secondary Languages | JavaScript, HTML, CSS |
 | Interests | Discord Development, Desktop Apps, Web Development |
-| Currently Learning | Backend Development, APIs, UI/UX |
+| Currently Learning | GODot, APIs, UI/UX |
 | Currently Working On | Discord Projects & Open Source |
 | Open To | Collaboration & Open Source |
 
