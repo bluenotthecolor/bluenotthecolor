@@ -1,80 +1,89 @@
 <h1 align="center">Lana</h1>
 
 <p align="center">
-Developer • Open Source • Building Modern Projects
+Hi, i'm lana, your uh friendly developer, i make websites and apps and currently learning GODot
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Python+Developer;Discord+Developer;Web+Developer;Desktop+Application+Developer" />
-</p>
+<br>
 
----
+<table align="center">
+<tr>
+<td>
 
-## Profile
+### Profile
 
-| Field | Value |
-|-------|-------|
-| Name | Lana |
+| | |
+|---|---|
 | Username | bluenotthecolor |
-| Location | Canada |
-| Primary Language | Python |
-| Secondary Languages | JavaScript, HTML, CSS |
-| Interests | Discord Development, Desktop Apps, Web Development |
-| Currently Learning | GODot, APIs, UI/UX |
-| Currently Working On | Discord Projects & Open Source |
-| Open To | Collaboration & Open Source |
+| Focus | Discord • Desktop • Web |
+| Learning | GODot • Backend |
+| Language | Python |
 
----
+</td>
 
-## About
+<td width="40"></td>
 
-```
-Name:
-Username:
-Occupation:
-Experience:
-Favorite Language:
-Current Focus:
-Favorite Editor:
-Operating System:
-```
+<td>
 
----
+### Contact
 
-## Technologies
+| | |
+|---|---|
+| GitHub | github.com/bluenotthecolor |
+| Website | lannna.ca |
+| Discord | @bluenotthecolor |
 
-| Languages | Frameworks | Databases | Tools |
-|------------|------------|-----------|------|
-| Python | Discord.py | SQLite | Git |
-| JavaScript | Flask | PostgreSQL | GitHub |
-| HTML | FastAPI | MongoDB | VS Code |
-| CSS | Node.js | Firebase | Linux |
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## Current Projects
+<table align="center">
+<tr>
+<td width="50%">
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| Duck | Multiplayer browser game | Active |
-| Discord Bot | Moderation & Utility | Active |
-| Portfolio | Personal website | Updating |
-| Desktop Application | Utility software | Planning |
+## Projects
 
----
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="center">Status</th>
+  </tr>
+  <tr>
+    <td><strong>Duck</strong></td>
+    <td>Check this out if you love ducks (and crashing your PC)</td>
+    <td align="center">Active</td>
+  </tr>
+  <tr>
+    <td><strong>Discord Bot</strong></td>
+    <td>Discord multipurpose bot</td>
+    <td align="center">Active</td>
+  </tr>
+  <tr>
+    <td><strong>Nothing</strong></td>
+    <td>An experimental game built around doing nothing.</td>
+    <td align="center">In Progress</td>
+  </tr>
 
-## Learning
+</td>
 
-| Currently Learning | Progress |
-|--------------------|----------|
-| Backend Development | ███████░░░ |
-| REST APIs | ████████░░ |
-| UI Design | ██████░░░░ |
-| Performance Optimization | ████░░░░░░ |
+<td width="50%">
 
----
+### Tech
 
-## GitHub Statistics
+| Languages | Tools |
+|-----------|-------|
+| Python | Git |
+| JavaScript | VS Code |
+| HTML/CSS | GitHub |
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=bluenotthecolor&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -85,56 +94,32 @@ Operating System:
 <img src="https://streak-stats.demolab.com?user=bluenotthecolor&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<br>
 
-## Featured Repositories
+<table align="center">
+<tr>
+<td width="50%">
 
-| Repository | Description |
-|------------|-------------|
-| Duck | Multiplayer browser game |
-| Discord Bot | Moderation & Utility |
-| Portfolio | Personal Website |
-| Upcoming | More projects coming soon |
+### Currently
 
----
+| | |
+|---|---|
+| Working On | the nothing game |
+| Building | Desktop Apps |
+| Open Source | Yes |
 
-## Development Environment
+</td>
 
-| Category | Value |
-|----------|-------|
-| IDE | VS Code |
-| Version Control | Git |
-| Platform | Windows |
-| Terminal | PowerShell |
-| Browser | Firefox |
+<td width="50%">
 
----
+### Interests
 
-## Goals
+| | |
+|---|---|
+| Discord Development |
+| Automation |
+| UI Design |
 
-| Goal | Status |
-|------|--------|
-| Release Desktop Application | In Progress |
-| Improve Portfolio | In Progress |
-| Build More Open Source Projects | Ongoing |
-| Learn New Technologies | Ongoing |
-
----
-
-## Contact
-
-| Platform | Link |
-|----------|------|
-| GitHub | https://github.com/bluenotthecolor |
-| Website | https://lannna.ca |
-| Discord | your_username |
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bluenotthecolor&style=for-the-badge&color=7aa2f7"/>
-</p>
-
-<p align="center">
-Thanks for visiting my profile.
-</p>
+</td>
+</tr>
+</table>
